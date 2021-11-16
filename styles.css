@@ -1,0 +1,58 @@
+h2 {
+    border: 2px solid black
+}
+
+.mjonir {
+    color: red;
+}
+
+.family {
+    color: gray;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+#title {
+    font-family: cursive;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+.background {
+    background-color: #00FFFF;
+}
+
+h1.destination {
+    font-family: Tahoma;
+}
+
+p.destination {
+    font-family: Tahoma;
+}
+
+div p {
+    height: auto;
+    border: black;
+    background-color: #99badd;
+}
+
+.depict {
+    height: 100px;
+    width: 100px;
+}
+
+.intro {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    border: 2px solid black;
+}
+
+.epic {
+    font-family: Arial;
+    color: red;
+}
+
